@@ -5,3 +5,4 @@
 -   :seedling: Currently learning **Python**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofandoud&show_icons=true&theme=dark)
