@@ -8,6 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofandoud&show_icons=true)
 
+<p align="center">▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀</p>
+
  <div align="center">
 
 | **Linkedin**  | **Twitter**  | **Gmail**  | **Website**  |
