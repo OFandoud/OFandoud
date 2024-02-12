@@ -1,7 +1,7 @@
 <img src="https://github.com/OFandoud/OFandoud/blob/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
--   :computer: I am working as **Junior DevOps Engineer**
--   :monocle_face: Interested in everything **Cloud Native**
+-   :computer: I am working as **Database Administrator**
+-   :monocle_face: Interested in everything **Data Engineering**
 -   :seedling: Currently learning **Python**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds.
